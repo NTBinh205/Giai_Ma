@@ -1,4 +1,6 @@
 Game “Giải mã kho báu”
+![image](https://github.com/user-attachments/assets/fae179c5-d843-43ed-be46-147122228fa7)
+![image](https://github.com/user-attachments/assets/984e6072-35fa-4ac6-a077-6b96e6fae30b)
 
 Mô tả
 Trò chơi giáo dục kết hợp yếu tố phiêu lưu và an toàn thông tin, giúp người chơi hiểu và thực hành giải mã thông điệp mã hóa để tìm ra kho báu bí ẩn.
